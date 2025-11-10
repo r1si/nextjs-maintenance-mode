@@ -1,0 +1,8 @@
+.idea
+.next
+node_modules
+.DS_Store
+*.pem
+
+.claude
+.history
