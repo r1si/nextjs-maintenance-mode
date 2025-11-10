@@ -47,11 +47,11 @@
     "countdown",
     "app-router"
   ],
-  "author": "",
+  "author": "Elia Baragiola <elia.baragiola@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/nextjs-maintenance-mode"
+    "url": "https://github.com/r1si/nextjs-maintenance-mode"
   },
   "peerDependencies": {
     "next": ">=16.0.0",
