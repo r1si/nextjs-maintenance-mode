@@ -51,7 +51,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/r1si/nextjs-maintenance-mode"
+    "url": "git+https://github.com/r1si/nextjs-maintenance-mode.git"
   },
   "peerDependencies": {
     "next": ">=16.0.0",
